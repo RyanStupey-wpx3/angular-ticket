@@ -27,6 +27,8 @@
             ],
             "scripts": []
           },
+
+          //trying to figure out why script files wont loadproperly - check index.html
           "configurations": {
             "production": {
               "fileReplacements": [
